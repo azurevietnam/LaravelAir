@@ -146,3 +146,15 @@ body{
 .area_1 .promotion img{
     height: 330px;
 }
+
+.area_2{
+    width: 100%;
+    background-color: rgba(0,0,0,0.9);
+    color: #ffffff;
+    padding: 20px;
+}
+
+.area_2 h3{
+    text-transform: uppercase;
+    color: #f8deab;
+}

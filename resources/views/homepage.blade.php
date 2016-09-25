@@ -88,5 +88,21 @@
         </div>
     </div>
 </div>
+
+<!--Area2-->
+<div class="area_2 row">
+    <div class="col-xs-12 col-md-4 text-center">
+        <h3><i class="fa fa-trophy" aria-hidden="true"></i> Cam kết chất lượng</h3>
+        <p>Đặt mua vé máy bay online với Vietnam Airlines, Vietjet Air, Jetstar và 600 hãng hàng không toàn cầu.</p>
+    </div>
+    <div class="col-xs-12 col-md-4 text-center">
+        <h3><i class="fa fa-tags" aria-hidden="true"></i> Luôn đảm bảo giá tốt</h3>
+        <p>Với lợi thế là Đại lý vé máy bay Cấp 1 của các hãng không, chúng tôi luôn cung cấp giá vé tốt nhất.</p>
+    </div>
+    <div class="col-xs-12 col-md-4 text-center">
+        <h3><i class="fa fa-star" aria-hidden="true"></i> Dịch vụ số 1</h3>
+        <p>Đội ngũ nhân viên của Vé máy bay Gia Trần luôn sẵn sàng hỗ trợ bạn mọi lúc mọi nơi.</p>
+    </div>
+</div>
 @endsection
 
