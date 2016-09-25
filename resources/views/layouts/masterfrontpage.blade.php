@@ -63,11 +63,11 @@
     <!--Footer-->
     <div class="footer container-fluid">
         <div class="row footer1">
-            <div class="col-xs-12 col-md-4">
+            <div class="col-md-4 hidden-xs">
                 <h4>Fanpage</h4>
                 <div class="fb-page"
                      data-href="https://www.facebook.com/C%C3%B4ng-Ty-TNHH-Minh-V%C3%A2n-1656102788010227/?fref=ts" 
-                     data-width="340"
+                     data-width="330px"
                      data-hide-cover="false"
                      data-show-facepile="true">
 

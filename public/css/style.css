@@ -1,6 +1,20 @@
+html,body{
+    min-height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+.container-fluid{
+    padding: 0px;
+    width: 100%;
+    flex: 1 1 0%;
+}
 
 .navbar{
     border-radius: 0px;
+    margin-bottom: 0px;
 }
 .navbar-brand {
     position: relative;
@@ -92,8 +106,7 @@
 
 .footer{
     background-color: rgba(0,0,0,0.9);
-    position: absolute;
-    bottom: 0px;
+    
     width: 100%;
     padding: 15px;
     color: #ffffff;
@@ -101,4 +114,35 @@
 
 .footer .footer1{
     padding-bottom: 20px;
+}
+
+/*Homepage*/
+.area_1{
+    height: 500px;
+    width: 100%;
+    margin: 0px;
+    background: url('../images/cover.jpg') center no-repeat;
+}
+
+.area_1 form{
+    background-color: rgba(12,167,198,0.94);
+    padding: 15px;
+    overflow: hidden;
+    margin-top: 75px;
+    color: #ffffff;
+    height: 330px;
+}
+
+.area_1 form button{
+    background-color: #fe5766;
+}
+
+.area_1 .promotion{
+    height: 330px;
+    margin-top: 75px;
+    overflow: hidden;
+}
+
+.area_1 .promotion img{
+    height: 330px;
 }
